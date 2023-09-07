@@ -1,0 +1,35 @@
+.navbar {
+    width: 100%;
+    padding: 0.5rem 10% !important;
+    background: rgb(52,58,64);
+}
+
+/* Colors */
+
+.grey__color {
+    background:rgb(52,58,64) ;
+}
+
+.text__color {
+    color: #6c757d;
+}
+
+/* Center */
+.center {
+    padding: 1rem 10%;
+}
+
+/* A tag */
+.a-tag {
+    text-decoration: none;
+}
+
+.a-tag:hover {
+    text-decoration: underline;
+}
+
+/* navbar-toggler */
+.navbar-toggler:focus {
+   border:1px solid rgb(255,255,255) !important;
+   box-shadow: none !important;
+}
